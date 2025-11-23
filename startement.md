@@ -42,4 +42,5 @@ This is a classic **Snake** game implemented in Python using the built-in `tkint
 - **Game Loop**: Implemented using `window.after(100, draw)` for ~10 FPS
 
 ## Author
-[ Krishna Bhumi ] – Feel free to modify and expand
+
+[ VIJAY YADAV ] – Feel free to modify and expand
